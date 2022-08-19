@@ -1,0 +1,53 @@
+body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.navbar{
+    height: 80px;
+    background-color: #444;
+    margin: -20px;
+}
+
+.main_backgroud{
+    background-color: #f0f0f0; 
+}
+
+.struct_main{
+    background-color: white;
+    color: #444;
+    position: relative;
+    max-width: 860px;
+    min-height: 100%;
+    margin: 1% auto;
+    border-top: 1px solid #d5dddf;
+    font-family: 'Georgia';
+    box-sizing: border-box;
+    padding: 30px 50px;
+    line-height: 24px;
+    display: block;
+}
+
+.struct_font_headlines_h1{
+    text-align: center;
+    font-size: 56px;
+}
+
+.struct_font_headlines_h2{
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: 900;
+}
+.struct_font_longtext{
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.butt{
+    height: 50px;
+    width: 300px;
+    display: block;
+    margin: auto;
+}
